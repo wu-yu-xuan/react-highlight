@@ -25,5 +25,5 @@ declare module 'react-highlight' {
 
   export default function ReactHighlight(
     props: ReactHighlightProps
-  ): JSX.Element;
+  ): React.ReactElement;
 }
