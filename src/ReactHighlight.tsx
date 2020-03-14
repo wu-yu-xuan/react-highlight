@@ -7,14 +7,15 @@ export default function ReactHighlight(props: ReactHighlightProps) {
 
   return (
     <span {...rest}>
-      {chunks.map(({ text, highlight }, index) => (
-        <mark
-          className={highlight ? highlightClassName : undefined}
-          key={index}
-        >
-          {text}
-        </mark>
-      ))}
+      {chunks.map(({ text, highlight }, index) =>
+        highlight ? (
+          <mark className={highlightClassName} key={index}>
+            {text}
+          </mark>
+        ) : (
+          text
+        )
+      )}
     </span>
   );
 }

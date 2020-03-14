@@ -18,161 +18,121 @@ it('should render ReactHighlight', () => {
   expect(container).toMatchInlineSnapshot(`
     <div>
       <span>
-        <mark>
-          When in 
-        </mark>
+        When in 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           Course of human events it becomes necessary f
-        </mark>
+         Course of human events it becomes necessary f
         <mark
           class="highlight"
         >
           or
         </mark>
-        <mark>
-           one people to dissolve 
-        </mark>
+         one people to dissolve 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           political b
-        </mark>
+         political b
         <mark
           class="highlight"
         >
           and
         </mark>
-        <mark>
-          s which have connected 
-        </mark>
+        s which have connected 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-          m with ano
-        </mark>
+        m with ano
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-          r 
-        </mark>
+        r 
         <mark
           class="highlight"
         >
           and
         </mark>
-        <mark>
-           to assume among 
-        </mark>
+         to assume among 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           powers of 
-        </mark>
+         powers of 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           earth, 
-        </mark>
+         earth, 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           separate 
-        </mark>
+         separate 
         <mark
           class="highlight"
         >
           and
         </mark>
-        <mark>
-           equal station to which 
-        </mark>
+         equal station to which 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           Laws of Nature 
-        </mark>
+         Laws of Nature 
         <mark
           class="highlight"
         >
           and
         </mark>
-        <mark>
-           of Nature's God entitle 
-        </mark>
+         of Nature's God entitle 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-          m, a decent respect to 
-        </mark>
+        m, a decent respect to 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           opinions of mankind requires that 
-        </mark>
+         opinions of mankind requires that 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-          y should declare 
-        </mark>
+        y should declare 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           causes which impel 
-        </mark>
+         causes which impel 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-          m to 
-        </mark>
+        m to 
         <mark
           class="highlight"
         >
           the
         </mark>
-        <mark>
-           separation.
-        </mark>
+         separation.
       </span>
     </div>
   `);
